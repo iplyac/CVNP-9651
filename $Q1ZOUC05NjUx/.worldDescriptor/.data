@@ -461,7 +461,11 @@
 <name>AlwaysExpired</name>
 </schedule>
 </schedules>
-<js-modules/>
+<js-modules>
+<js-module>
+<name>JavaScriptModule1</name>
+</js-module>
+</js-modules>
 <scene-scripts/>
 <schedule-name>AlwaysExpired</schedule-name>
 <component>
